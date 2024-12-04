@@ -5,7 +5,7 @@
     <visual>
     <origin xyz="0 0 0" rpy="-1.5708 0 1.5708"/> <!-- Rotate 90 degrees around the X-axis -->
       <geometry>
-        <mesh filename="package://robot_description/meshes/dummy_bases/smr5_dummy.stl" scale="0.001 0.001 0.001" />
+        <mesh filename="https://raw.githubusercontent.com/oguzhankose/oguzhankose.github.io/main/robot_description/meshes/smr5_dummy.stl" />
       </geometry>
       <material name="default">
         <color rgba="0.5 0.5 0.5 1.0"/> <!-- Gray color -->
